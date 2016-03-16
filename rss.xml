@@ -4,7 +4,7 @@
         <description><![CDATA[Photos of Hong Kong]]></description>
         <link>https://thegrid.ai/kong/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 16 Mar 2016 04:17:35 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Mar 2016 04:18:15 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/kong/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -19,6 +19,13 @@
             <link>https://thegrid.ai/kong/212a9928-41d6-41a5-9c1b-3797842b1aeb/index.html</link>
             <guid isPermaLink="false">212a9928-41d6-41a5-9c1b-3797842b1aeb</guid>
             <pubDate>Wed, 16 Mar 2016 04:17:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/57673709-e131-4858-b710-e90b6cb3e814.jpg">]]></description>
+            <link>https://thegrid.ai/kong/76daa189-e9f4-46a6-aac3-745cd3443ed6/index.html</link>
+            <guid isPermaLink="false">76daa189-e9f4-46a6-aac3-745cd3443ed6</guid>
+            <pubDate>Wed, 16 Mar 2016 04:17:34 GMT</pubDate>
         </item>
     </channel>
 </rss>
