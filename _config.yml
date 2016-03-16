@@ -1,6 +1,6 @@
 name: Kong
 favicon: null
-layout_spectrum: 0.43472390598617494
+layout_spectrum: 1
 typography_spectrum: 0.3152828433085233
 title: Photos of Hong Kong
 cta:
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
-  brandStrength: 0.5657176768872887
-  lightness: 0.7360841436311603
-  saturation: 0.749867839505896
-  rhythmicContrast: 0.22646347084082663
+    - '#0c0304'
+    - '#f9f8f6'
+    - '#5f2620'
+    - '#cac1b8'
+    - '#d37c27'
+  brandStrength: 0
+  lightness: 1
+  saturation: 0.5
+  rhythmicContrast: 1
 purpose: []
