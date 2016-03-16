@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Photos of Hong Kong]]></title>
         <description><![CDATA[Photos of Hong Kong]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/kong/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 16 Mar 2016 04:17:34 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 16 Mar 2016 04:17:35 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/kong/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4080a2f1-01b3-4d96-a250-82e0df91723b.jpg">]]></description>
+            <link>https://thegrid.ai/kong/34d39a5c-9047-4171-ba2c-8eca553aac12/index.html</link>
+            <guid isPermaLink="false">34d39a5c-9047-4171-ba2c-8eca553aac12</guid>
+            <pubDate>Wed, 16 Mar 2016 04:17:34 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/fb8efeec-9672-44e8-bcfe-89fd10f8c419.jpg">]]></description>
-            <link>undefined212a9928-41d6-41a5-9c1b-3797842b1aeb/index.html</link>
+            <link>https://thegrid.ai/kong/212a9928-41d6-41a5-9c1b-3797842b1aeb/index.html</link>
             <guid isPermaLink="false">212a9928-41d6-41a5-9c1b-3797842b1aeb</guid>
             <pubDate>Wed, 16 Mar 2016 04:17:33 GMT</pubDate>
         </item>
